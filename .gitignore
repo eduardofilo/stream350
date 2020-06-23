@@ -1,0 +1,7 @@
+lz4.o
+lz4frame.o
+lz4hc.o
+main.o
+stream350
+xxhash.o
+
